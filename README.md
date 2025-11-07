@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/setelucas/setelucas/main/banner.png" alt="Hello World banner" width="100%">
-</p>
 
 <h1 align="center">👋 I'm Lucas Sete</h1>
 
