@@ -10,18 +10,48 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 Computer Science student at **UNEMAT - Rondonópolis/MT**  
-- 💻 Passionate about **programming**, **algorithms**, and **problem-solving**  
-- 🧩 Currently improving my skills in **C** and **Python**  
-- 🚀 Always exploring **new technologies** and **open-source projects**
+### 🎯 Objective
+Computer Science student seeking opportunities to enhance my academic and technical knowledge, aiming for continuous growth and improvement in my field.
 
 ---
 
-### 🛠️ Tech Stack
+### 💡 Skills
+- 🤝 Communicative, organized, and highly motivated to learn and contribute daily.  
+- 💻 Knowledge in **C** and **Python** programming.  
+- 🌱 Dedicated to self-improvement and teamwork in technology environments.  
+
+---
+
+### 🧠 About Me
+- 🎓 Currently studying **Computer Science at UNEMAT - Rondonópolis/MT**  
+- 💻 Passionate about **programming**, **algorithms**, and **problem-solving**  
+- 🚀 Exploring **new technologies**, **AI**, and **open-source projects**  
+- 🧩 Focused on applying knowledge to **real-world applications**
+
+---
+
+### 🧰 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,linux,git,github,vscode,html,css" alt="tech stack" />
 </p>
+
+---
+
+### 💼 Experience
+
+#### 🧩 *PIXEL Research Group – Rondonópolis/MT*  
+**Focus:** Image Processing, Computer Vision, and Interactive Applications  
+- Worked as a **scholarship student (Apr/2024 – Apr/2025)** on an **LLM-based AI project** for administrative support and applied computer vision.
+
+#### 🏛️ *City Hall of Rondonópolis – IT Department*  
+**Role:** IT Intern  
+- **Start:** Mar/2025 – Present  
+- Supporting technical maintenance, systems, and data organization for the IT sector.
+
+#### 🎓 *Regional School of Informatics SBC – Mato Grosso (ERI 2024)*  
+- Responsible for the workshop: *“Design de UX e Prototipagem: Moldando as Escolhas do Usuário”*  
+- Presented the project: *“PIXEL: Construindo Pontes entre IA, Visão Computacional e Aplicação Prática”*  
+- [🔗 Event link](https://example.com) <!-- Substitua aqui pelo link real do evento -->
 
 ---
 
@@ -49,4 +79,5 @@
 
 ---
 
-⭐ *“Code is like humor. When you have to explain it, it’s bad.”*  
+⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
+
