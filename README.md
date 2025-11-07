@@ -84,3 +84,10 @@ Computer Science student seeking opportunities to enhance my academic and techni
 
 ⭐ *“Code is like humor. When you have to explain it, it’s bad.”*
 
+---
+
+### 🐍 My GitHub Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/setelucas/setelucas/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
