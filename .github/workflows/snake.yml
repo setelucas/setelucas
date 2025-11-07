@@ -5,15 +5,19 @@ on:
     - cron: "0 0 * * *"  # Runs every day at midnight (UTC)
   workflow_dispatch:
 
+permissions:
+  contents: write  # ✅ Required to push to the output branch
+
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Generate GitHub Contribution Snake
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3
         with:
           github_user_name: setelucas
           outputs: dist/snake.svg
