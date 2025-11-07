@@ -88,6 +88,6 @@ Computer Science student seeking opportunities to enhance my academic and techni
 
 ### 🐍 My GitHub Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/setelucas/setelucas/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/setelucas/setelucas/output/snake.svg" alt="snake animation" />
 </p>
 
